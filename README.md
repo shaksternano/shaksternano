@@ -9,7 +9,6 @@ add funny edits to images and animated GIFs.
 - [A 2D sidescroller game](https://github.com/shaksternano/NEA-Sidescroller-Game), my A-Level course project.
 - [a Minecraft mod](https://github.com/shaksternano/cats-plus) that adds cat related features.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShaksterNano&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ShaksterNano)](https://git.io/streak-stats)
 
 [![@shaksternano's Holopin board](https://holopin.me/shaksternano)](https://holopin.io/@shaksternano)
